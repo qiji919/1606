@@ -1,4 +1,4 @@
 function drag(){
-	
+	var dix;
 	
 }
